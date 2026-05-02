@@ -1,4 +1,5 @@
-Food Ordering System — Project Documentation
+**Food Ordering System — Project Documentation**
+
 Overview
 This project is a Food Ordering System built to handle customer registration, account management, order placement, feedback submission, and menu interaction. The underlying database is structured around several core entities: Customer, Order, Menu, Meal, Feedback, Restaurant, and Payment.
 The sections below cover the implemented logic for the Customer and Feedback tables, specifically around insert, update, and delete operations and the validation rules governing each.
